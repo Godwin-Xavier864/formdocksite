@@ -1,0 +1,11 @@
+# Robots.txt for FormDock Ecosystem Landing Platform
+# https://formdock.in
+
+User-agent: *
+Allow: /
+
+# Host
+Host: https://formdock.in
+
+# Sitemap Index
+Sitemap: https://formdock.in/sitemap.xml
